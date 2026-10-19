@@ -3,7 +3,7 @@ print("===== Record Keeping App =====")
 table = {}
 
 while True:
-    print("a. Add Data")
+    print("\na. Add Data")
     print("b. Delete Data")
     print("c. End")
 
